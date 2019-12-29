@@ -1,0 +1,7 @@
+#
+#   dont include in SVN
+#
+idea
+.idea
+
+venv
